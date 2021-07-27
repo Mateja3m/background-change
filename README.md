@@ -1,3 +1,3 @@
-#JavaScript Project
+JavaScript Project
 
 Change Background Color with JavaScript 
